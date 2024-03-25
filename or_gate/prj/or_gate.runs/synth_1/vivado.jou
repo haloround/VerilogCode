@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 12 20:14:18 2024
+# Process ID: 6772
+# Current directory: D:/VerilogCode/or_gate/prj/or_gate.runs/synth_1
+# Command line: vivado.exe -log or_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source or_gate.tcl
+# Log file: D:/VerilogCode/or_gate/prj/or_gate.runs/synth_1/or_gate.vds
+# Journal file: D:/VerilogCode/or_gate/prj/or_gate.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source or_gate.tcl -notrace

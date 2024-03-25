@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:D:/VerilogCode/or_gate/prj/or_gate.srcs/constrs_1/new/or_gate.xdc rfile:../../../or_gate.srcs/constrs_1/new/or_gate.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L14 [get_ports A]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN K16 [get_ports B]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN H15 [get_ports Y]

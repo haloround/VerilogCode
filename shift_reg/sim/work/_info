@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VerilogCode/shift_reg/sim
+T_opt
+!s110 1710310870
+VJGVlJzUkOU2jcJP12A94Y1
+04 12 4 work tb_shift_reg fast 0
+=1-4ccc6a382129-65f145d5-3c5-344c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+vshift_reg
+Z2 !s110 1710311222
+!i10b 1
+!s100 RYZDMdc_i6TV=mER18chc1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4be@7@]Fm1:3O=8JcE_F@3
+R0
+w1710310517
+8D:/VerilogCode/shift_reg/rtl/shift_reg.v
+FD:/VerilogCode/shift_reg/rtl/shift_reg.v
+!i122 4
+L0 1 32
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1710311222.000000
+!s107 D:/VerilogCode/shift_reg/rtl/shift_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VerilogCode/shift_reg/rtl/shift_reg.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_shift_reg
+R2
+!i10b 1
+!s100 Z`9Q`0]FnY2<kgminSadN2
+R3
+I1iCM<cB1EheIFS]i6JAG;0
+R0
+w1710311204
+8D:/VerilogCode/shift_reg/sim/tb/tb_shift_reg.v
+FD:/VerilogCode/shift_reg/sim/tb/tb_shift_reg.v
+!i122 5
+L0 3 34
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/VerilogCode/shift_reg/sim/tb/tb_shift_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VerilogCode/shift_reg/sim/tb/tb_shift_reg.v|
+!i113 0
+R7
+R1
