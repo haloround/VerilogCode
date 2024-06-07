@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Apr  8 13:45:59 2024
+# Process ID: 2760
+# Current directory: D:/VerilogCode/ip_1port_ram/prj/ip_1port_ram/ip_1port_ram.runs/synth_1
+# Command line: vivado.exe -log ip_1port_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ip_1port_ram.tcl
+# Log file: D:/VerilogCode/ip_1port_ram/prj/ip_1port_ram/ip_1port_ram.runs/synth_1/ip_1port_ram.vds
+# Journal file: D:/VerilogCode/ip_1port_ram/prj/ip_1port_ram/ip_1port_ram.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ip_1port_ram.tcl -notrace

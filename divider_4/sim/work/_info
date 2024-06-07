@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VerilogCode/edge_test/sim
+T_opt
+!s110 1712064452
+VLG;[@XmbSNZCj<IUUW^G82
+Z1 04 12 4 work tb_divider_4 fast 0
+=1-4ccc6a382129-660c07c4-29a-7344
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1712064466
+VF^OQbmN2:>@V5=WI617@E2
+R1
+=1-4ccc6a382129-660c07d2-29e-5cac
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+vdivider_4
+Z4 !s110 1712064444
+!i10b 1
+!s100 nhA:j[f2AlAZZ?O0Nh16Y0
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1M^YTJ?9e4R3GKLR5:O:23
+Z6 dD:/VerilogCode/divider_4/sim
+w1712064040
+8D:/VerilogCode/divider_4/rtl/divider_4.v
+FD:/VerilogCode/divider_4/rtl/divider_4.v
+!i122 3
+L0 1 27
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1712064444.000000
+!s107 D:/VerilogCode/divider_4/rtl/divider_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VerilogCode/divider_4/rtl/divider_4.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_divider_4
+R4
+!i10b 1
+!s100 FL2ngAc5:A]CWG;l>9d:90
+R5
+I1;;o[@`R6Gb>=;z^l4_mN3
+R6
+w1712064432
+8D:/VerilogCode/divider_4/sim/tb/tb_divider_4.v
+FD:/VerilogCode/divider_4/sim/tb/tb_divider_4.v
+!i122 2
+L0 3 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/VerilogCode/divider_4/sim/tb/tb_divider_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/VerilogCode/divider_4/sim/tb/tb_divider_4.v|
+!i113 0
+R10
+R2

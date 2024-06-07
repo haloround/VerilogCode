@@ -1,0 +1,42 @@
+# Compile of tb_ip_1port_ram.v was successful.
+# Compile of ip_1port_ram.v was successful.
+# Compile of ram_rw.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib work.tb_ip_1port_ram
+# vsim -voptargs="+acc" -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib work.tb_ip_1port_ram 
+# Start time: 16:06:20 on Apr 07,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'modelsim_lib/msim/xil_defaultlib' at "modelsim_lib/msim/xil_defaultlib".
+# No such file or directory. (errno = ENOENT)
+# ** Error (suppressible): (vsim-19) Failed to access library 'modelsim_lib/msim/xil_defaultlib' at "modelsim_lib/msim/xil_defaultlib".
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-1905) Unable to map work library to a physical path.
+# Refreshing D:/VerilogCode/ip_1port_ram/sim/work.tb_ip_1port_ram
+# ** Error (suppressible): (vlog-12110) All optimizations are disabled because the -novopt option is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features, please see the User's Manual section on Preserving Object Visibility with vopt. -novopt option is now deprecated and will be removed in future releases.
+# ** Error: vlog failed.
+# subinvocation of vlog failed; return status = 1.
+# ** Error: (vsim-3171) Could not find machine code for 'D:/VerilogCode/ip_1port_ram/sim/work.tb_ip_1port_ram'.
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 16:06:21 on Apr 07,2024, Elapsed time: 0:00:01
+# Errors: 5, Warnings: 6
+# Compile of tb_ip_1port_ram.v was successful.
+# Compile of ip_1port_ram.v was successful.
+# Compile of ram_rw.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -voptargs=+acc -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib work.tb_ip_1port_ram -vopt
+# vsim -voptargs="+acc" -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib work.tb_ip_1port_ram -vopt 
+# Start time: 16:07:11 on Apr 07,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'modelsim_lib/msim/xil_defaultlib' at "modelsim_lib/msim/xil_defaultlib".
+# No such file or directory. (errno = ENOENT)
+# ** Error (suppressible): (vsim-19) Failed to access library 'modelsim_lib/msim/xil_defaultlib' at "modelsim_lib/msim/xil_defaultlib".
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-1905) Unable to map work library to a physical path.
+# Refreshing D:/VerilogCode/ip_1port_ram/sim/work.tb_ip_1port_ram
+# ** Error (suppressible): (vlog-12110) All optimizations are disabled because the -novopt option is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features, please see the User's Manual section on Preserving Object Visibility with vopt. -novopt option is now deprecated and will be removed in future releases.
+# ** Error: vlog failed.
+# subinvocation of vlog failed; return status = 1.
+# ** Error: (vsim-3171) Could not find machine code for 'D:/VerilogCode/ip_1port_ram/sim/work.tb_ip_1port_ram'.
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 16:07:12 on Apr 07,2024, Elapsed time: 0:00:01
+# Errors: 5, Warnings: 2

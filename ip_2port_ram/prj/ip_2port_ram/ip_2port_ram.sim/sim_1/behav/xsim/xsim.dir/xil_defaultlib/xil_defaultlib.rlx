@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/VerilogCode/ip_2port_ram/prj/ip_2port_ram/ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1712557573,verilog,,D:/VerilogCode/ip_2port_ram/rtl/ip_2port_ram.v,,blk_mem_gen_0,,,,,,,,
+D:/VerilogCode/ip_2port_ram/prj/ip_2port_ram/ip_2port_ram.gen/sources_1/ip/ila_0/sim/ila_0.v,1712564872,verilog,,D:/VerilogCode/ip_2port_ram/prj/ip_2port_ram/ip_2port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,,ila_0,,,,,,,,
+D:/VerilogCode/ip_2port_ram/prj/ip_2port_ram/ip_2port_ram.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/VerilogCode/ip_2port_ram/rtl/ip_2port_ram.v,1712564321,verilog,,D:/VerilogCode/ip_2port_ram/rtl/ram_rd.v,,ip_2port_ram,,,,,,,,
+D:/VerilogCode/ip_2port_ram/rtl/ram_rd.v,1712561975,verilog,,D:/VerilogCode/ip_2port_ram/rtl/ram_wr.v,,ram_rd,,,,,,,,
+D:/VerilogCode/ip_2port_ram/rtl/ram_wr.v,1712561759,verilog,,D:/VerilogCode/ip_2port_ram/sim/tb/tb_ip_2port_ram.v,,ram_wr,,,,,,,,
+D:/VerilogCode/ip_2port_ram/sim/tb/tb_ip_2port_ram.v,1712561557,verilog,,,,tb_ip_2port_ram,,,,,,,,

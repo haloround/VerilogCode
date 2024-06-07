@@ -1,0 +1,15 @@
+D:/VerilogCode/divider_4/sim/tb/tb_divider_4.v {1 {vlog -work work -vopt -stats=none D:/VerilogCode/divider_4/sim/tb/tb_divider_4.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_divider_4
+
+Top level modules:
+	tb_divider_4
+
+} {} {}} D:/VerilogCode/divider_4/rtl/divider_4.v {1 {vlog -work work -vopt -stats=none D:/VerilogCode/divider_4/rtl/divider_4.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module divider_4
+
+Top level modules:
+	divider_4
+
+} {} {}}

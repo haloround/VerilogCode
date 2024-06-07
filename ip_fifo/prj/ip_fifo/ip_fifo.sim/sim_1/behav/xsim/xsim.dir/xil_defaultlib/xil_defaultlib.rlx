@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1712578765,verilog,,D:/VerilogCode/ip_fifo/rtl/fifo_rd.v,,clk_wiz_0,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1712578765,verilog,,D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1712577981,verilog,,D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,fifo_generator_0,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/prj/ip_fifo/ip_fifo.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/VerilogCode/ip_fifo/rtl/fifo_rd.v,1712649356,verilog,,D:/VerilogCode/ip_fifo/rtl/fifo_wr.v,,fifo_rd,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/rtl/fifo_wr.v,1712649914,verilog,,D:/VerilogCode/ip_fifo/rtl/ip_fifo.v,,fifo_wr,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/rtl/ip_fifo.v,1712649561,verilog,,D:/VerilogCode/ip_fifo/sim/tb/tb_ip_fifo.v,,ip_fifo,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogCode/ip_fifo/sim/tb/tb_ip_fifo.v,1712649964,verilog,,,,tb_ip_fifo,,,../../../../ip_fifo.gen/sources_1/ip/clk_wiz_0,,,,,

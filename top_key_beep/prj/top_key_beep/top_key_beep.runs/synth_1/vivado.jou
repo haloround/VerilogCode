@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Apr  6 16:07:56 2024
+# Process ID: 26152
+# Current directory: D:/VerilogCode/top_key_beep/prj/top_key_beep/top_key_beep.runs/synth_1
+# Command line: vivado.exe -log top_key_beep.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_key_beep.tcl
+# Log file: D:/VerilogCode/top_key_beep/prj/top_key_beep/top_key_beep.runs/synth_1/top_key_beep.vds
+# Journal file: D:/VerilogCode/top_key_beep/prj/top_key_beep/top_key_beep.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_key_beep.tcl -notrace

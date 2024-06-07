@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/VerilogCode/ip_1port_ram/prj/ip_1port_ram/ip_1port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1712412994,verilog,,D:/VerilogCode/ip_1port_ram/rtl/ip_1port_ram.v,,blk_mem_gen_0,,,,,,,,
+D:/VerilogCode/ip_1port_ram/prj/ip_1port_ram/ip_1port_ram.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/VerilogCode/ip_1port_ram/rtl/ip_1port_ram.v,1712547179,verilog,,D:/VerilogCode/ip_1port_ram/rtl/ram_rw.v,,ip_1port_ram,,,,,,,,
+D:/VerilogCode/ip_1port_ram/rtl/ram_rw.v,1712550998,verilog,,D:/VerilogCode/ip_1port_ram/sim/tb/tb_ip_1port_ram.v,,ram_rw,,,,,,,,
+D:/VerilogCode/ip_1port_ram/sim/tb/tb_ip_1port_ram.v,1712476667,verilog,,,,tb_ip_1port_ram,,,,,,,,
